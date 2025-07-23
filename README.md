@@ -32,10 +32,8 @@
 ## 📫 Get in touch
 
 🌐 Website: [gergo-dev.eu](https://gergo-dev.eu)  
-
 📧 Email: contact@gergo-dev.eu 
-
 💻 GitHub: [github.com/greg-dev0](https://github.com/greg-dev0)
-
 💼 LinkedIn: [Ovádi Gergő](https://www.linkedin.com/in/gerg%C5%91-ov%C3%A1di-4a1563370/)
+
 ---
