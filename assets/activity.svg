@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="245" viewBox="0 0 1000 245" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub activity card setup pending</title>
+  <desc id="desc">The contribution activity card will be generated after the GitHub Actions secret is configured and the workflow is run.</desc>
+  <rect x="0.5" y="0.5" width="999" height="244" rx="14" fill="#0D1117" stroke="#263241"/>
+  <text x="26" y="34" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="2">ACTIVITY · LAST 12 MONTHS</text>
+  <line x1="26" y1="48" x2="974" y2="48" stroke="#263241"/>
+  <text x="500" y="118" text-anchor="middle" fill="#7DD3FC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="600">Activity card will appear here</text>
+  <text x="500" y="145" text-anchor="middle" fill="#8392A5" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Configure CONTRIBUTIONS_TOKEN and run “Update activity card” in GitHub Actions.</text>
+  <text x="26" y="218" fill="#8392A5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1">PUBLIC + PRIVATE CONTRIBUTIONS · AGGREGATE ONLY</text>
+</svg>
