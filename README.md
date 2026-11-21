@@ -36,7 +36,7 @@ I build software across native applications, game-related systems and the web. I
 ## Activity
 
 <p>
-  <img src="./assets/activity.svg" alt="GitHub contribution activity for the last 12 months" width="100%" />
+  <img src="https://raw.githubusercontent.com/greg-dev0/greg-dev0/main/assets/activity.svg?v=2" alt="GitHub contribution activity for the last 12 months" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:307ed7,100:0B0F14&height=90&section=footer" alt="" width="100%" />
